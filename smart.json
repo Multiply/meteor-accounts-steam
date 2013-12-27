@@ -1,0 +1,11 @@
+{
+  "name": "accounts-steam",
+  "description": "Login service for Steam accounts",
+  "homepage": "https://github.com/Multiply/meteor-accounts-steam",
+  "author": "Jens Ulrich Hjuler Pedersen <multiply@juhp.net> (http://juhp.net)",
+  "version": "0.0.1",
+  "git": "https://github.com/Multiply/meteor-accounts-steam.git",
+  "packages": {
+  	"steam": "0.0.1"
+  }
+}
